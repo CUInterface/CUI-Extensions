@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CUI-Extensions", "CUI_Extensions\CUI-Extensions.csproj", "{4CBA97D3-12C3-4BD7-9850-6B0B17399574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CBA97D3-12C3-4BD7-9850-6B0B17399574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CBA97D3-12C3-4BD7-9850-6B0B17399574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CBA97D3-12C3-4BD7-9850-6B0B17399574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CBA97D3-12C3-4BD7-9850-6B0B17399574}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CE82AAE-38F5-489A-BD05-CE02600D84F5}
+	EndGlobalSection
+EndGlobal
